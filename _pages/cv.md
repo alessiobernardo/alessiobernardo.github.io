@@ -11,49 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science, Politecnico of Milano, Milano, Italy, 2019-2022 (expected)
+* M.Sc. in Computer Science, Politecnico of Milano, Milano, Italy, 2016-2019
+* B.S. in Information Technology, Politecnico of Milano, Milano, Italy, 2013-2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* November 2019 – Current, PhD scholarship student at Politecnico of Milano, Milano, Italy.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* September 2019 – November 2019, Visiting Researcher at the University of Waikato in the machine learning group, Hamilton, New Zealand.
+
+* October 2018 – September 2019, Analyst Programmer at Halley Lombardia srl, Cantù, Italy.
+​
+* March 2018 – December 2020, Tutor at Educo APS, Como, Italy.
+​
+* 2016 – 2018, IT Professor at Scuola Studio Lavoro, Como, Italy.
+​
+* October 2015 – December 2016, Tutor at Associazione culturale Formamente, San Fermo Della Battaglia, Italy. 
+​
+* June 2013 – August 2013, Web Developer at Go.Var srl, Como, Italy.
+
+* June 2012 – August 2012, High School Internship at BluMade, Como, Italy.
+
+* June 2011 – August 2011, High School Internship at BluMade, Como, Italy. 
+
+Grants, Awards and Honors
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Best Paper Award BIS 2021. Best paper award for the paper entitled "Supporting an Expert-centric Process of New Product Introduction with Statistical MachineLearning".
+* PhD Grants. From November 2019 until November 2022 I was recipient of ministerial scholarship.
+
+
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  See my [publications page](https://alessiobernardo.com/publications/). 
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+  See my [talk page](https://alessiobernardo.com/talks/).
+    
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  See my [teaching page](https://alessiobernardo.com/teaching/).
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  

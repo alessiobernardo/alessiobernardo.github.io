@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Alessio Bernardo"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I am a Ph.D. Student at Politecnico of Milano at Department of Electronics, Computer and Bioengineering (DEIB), under the supervision of Prof. Emanuele Della Valle. My research interests are: Streaming Machine Learning (SML), Evolving Data Streams, Concept Drift and Class Imbalance. I study how to rebalance evolving data streams in presence of concept drift."
+  location         : "Politecnico of Milano, Italy"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=v9Wm06wAAAAJ&hl=it"
+  email            : "alessio.bernardo@polimi.it"
+  researchgate     : "https://www.researchgate.net/profile/Alessio-Bernardo"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "alessiobernardo"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "alessiobernardo/"
+  orcid            : "https://orcid.org/0000-0002-3492-0345"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
