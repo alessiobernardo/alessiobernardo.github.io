@@ -44,14 +44,14 @@ Grants, Awards and Honors
 
 Publications
 ======
-  See my [publications page](https://alessiobernardo.com/publications/). 
+  See my [publications page](https://alessiobernardo.github.io/publications/). 
   
 Talks
 ======
-  See my [talk page](https://alessiobernardo.com/talks/).
+  See my [talk page](https://alessiobernardo.github.io/talks/).
     
 Teaching
 ======
-  See my [teaching page](https://alessiobernardo.com/teaching/).
+  See my [teaching page](https://alessiobernardo.github.io/teaching/).
   
   
