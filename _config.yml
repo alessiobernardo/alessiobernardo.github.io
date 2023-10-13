@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Streaming Machine Learning"
 title_separator          : "-"
 name                     : &name "Alessio Bernardo"
-description              : &description "PhD Student at Politecnico of Milano"
+description              : &description "Research Fellow at Politecnico of Milano"
 url                      : https://alessiobernardo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alessiobernardo/alessiobernardo.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alessio Bernardo"
   avatar           : "profile.jpg"
-  bio              : "I am a Ph.D. Student at Politecnico of Milano at Department of Electronics, Computer and Bioengineering (DEIB), under the supervision of Prof. Emanuele Della Valle. My research interests are: Streaming Machine Learning (SML), Evolving Data Streams, Concept Drift and Class Imbalance. I study how to rebalance evolving data streams in presence of concept drift."
+  bio              : "After obtaining his PhD at the Politecnico di Milano, at the Department of Electronics, Information and Bioengineering, under the supervision of Prof. Emanuele Della Valle, with a thesis entitled ’On Learning from Massive, Evolving, and Imbalanced Data Streams’, Alessio Bernardo is a Research Fellow at the same department. His research interests are Streaming Machine Learning, Evolving Data Streams, Concept Drift, Class Imbalance, and Streaming Edge AI."
   location         : "Politecnico of Milano, Italy"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

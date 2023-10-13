@@ -11,15 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Politecnico of Milano, Milano, Italy, 2019-2022 (expected)
+* Ph.D in Computer Science, Politecnico of Milano, Milano, Italy, 2019-2023
+* Visiting Researcher at the University of Waikato in the Machine Learning group, Hamilton, New Zealand, September 2019 – November 2019
 * M.Sc. in Computer Science, Politecnico of Milano, Milano, Italy, 2016-2019
 * B.S. in Information Technology, Politecnico of Milano, Milano, Italy, 2013-2016
 
 Work experience
 ======
-* November 2019 – Current, PhD scholarship student at Politecnico of Milano, Milano, Italy.
-
-* September 2019 – November 2019, Visiting Researcher at the University of Waikato in the machine learning group, Hamilton, New Zealand.
+* May 2023 – Current, Research Fellow at Politecnico of Milano, Milano, Italy.
 
 * October 2018 – September 2019, Analyst Programmer at Halley Lombardia srl, Cantù, Italy.
 ​
@@ -38,7 +37,7 @@ Work experience
 Grants, Awards and Honors
 ======
 * Best Paper Award BIS 2021. Best paper award for the paper entitled "Supporting an Expert-centric Process of New Product Introduction with Statistical MachineLearning".
-* PhD Grants. From November 2019 until November 2022 I was recipient of ministerial scholarship.
+* PhD Grants. From November 2019 until January 2023 I was recipient of ministerial scholarship.
 
 
 

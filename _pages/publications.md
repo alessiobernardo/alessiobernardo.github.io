@@ -8,9 +8,11 @@ author_profile: true
 If you are looking for a pdf for one of these publications, take a look at my [research gate profile](https://www.researchgate.net/profile/Alessio-Bernardo). Another option is my [google scholar profile](https://scholar.google.com/citations?user=v9Wm06wAAAAJ&hl=it).
 
 ```
-Last update on February 2022.
+Last update on October 2023.
 ```
 ## 2022
+
+* [**Towards Time-Evolving Analytics: Online Learning for Time-Dependent Evolving Data Streams.**](https://content.iospress.com/articles/data-science/ds220057) G Ziffer, A Bernardo, E Della Valle, V Cerqueira, A Bifet. Journal of Data Science, IOS Press, 2022.
 
 * [**An extensive study of C-SMOTE, a Continuous Synthetic Minority Oversampling Technique for Evolving Data Streams.**](https://www.sciencedirect.com/science/article/abs/pii/S0957417422001208) A Bernardo, E Della Valle. Journal of Expert Systems with Applications, 2022.
 

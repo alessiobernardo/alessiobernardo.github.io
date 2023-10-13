@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at Politecnico of Milano (Italy) working on Streaming Machine Learning (SML).
+I am a Research Fellow at Politecnico of Milano (Italy) working on Streaming Edge AI.
 
 Selected publications
 ======
